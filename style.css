@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(19, 20, 19);
+    margin: 0%;
+    padding: 0%;
+}
+.main-clock{
+    color: brown;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 90px;
+}
+.container{
+    font-family: sans-serif;
+    font-weight: bold;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+    transform: translateX(-50%,-50%);
+    font-size: 70px;
+    color: aliceblue;
+}
